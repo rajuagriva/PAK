@@ -1,0 +1,338 @@
+{  
+    "questions": [  
+        {
+            "id": 1,
+            "question": "Melalui sila pertama Pancasila “Ketuhanan Yang Maha Esa” bangsa Indonesia diharapkan:",
+            "options": [
+                "memandang semua agama dan kepercayaan sama",
+                "menyatakan bahwa ada kekuasaan tertinggi di luar diri manusia yaitu Tuhan Yang Esa",
+                "memandang bahwa agama yang satu lebih benar dari agama yang lain",
+                "menganggap bahwa tidak perlu manusia beragama sebab yang penting adalah percaya adanya Tuhan"
+            ],
+            "correct": "menyatakan bahwa ada kekuasaan tertinggi di luar diri manusia yaitu Tuhan Yang Esa"
+        },
+        {
+            "id": 2,
+            "question": "Adanya alam semesta membuktikan bahwa Tuhan Yang Maha Esa itu ada. Pandangan demikian disebut:",
+            "options": [
+                "argumentasi moral",
+                "argumentasi teleologis",
+                "argumentasi kosmologis",
+                "argumentasi rasional"
+            ],
+            "correct": "argumentasi kosmologis"
+        },
+        {
+            "id": 3,
+            "question": "Alkitab mengungkapkan bahwa Tuhan Yang Maha Esa itu disebut Allah (Elohim), Tuhan (Adonai) dan TUHAN yang Mahatinggi (Yahweh). Jika demikian maka:",
+            "options": [
+                "kita tidak boleh lagi menyebut Tuhan itu Allah",
+                "kita sebaiknya menyebut Tuhan itu Yahweh saja",
+                "kita boleh menyebut Tuhan dengan nama yang kita suka",
+                "kita boleh menyapa Tuhan dengan beragam nama atau sebutan"
+            ],
+            "correct": "kita boleh menyapa Tuhan dengan beragam nama atau sebutan"
+        },
+        {
+            "id": 4,
+            "question": "Tuhan Yesus menegaskan bahwa Allah itu Roh adanya (Yoh 4:24). Itu berarti:",
+            "options": [
+                "dia maha hadir",
+                "dia berbicara kepada roh dan jiwa kita",
+                "dia dapat disapa dan disembah di berbagai ruang dan waktu",
+                "semua jawaban di atas benar"
+            ],
+            "correct": "semua jawaban di atas benar"
+        },
+        {
+            "id": 5,
+            "question": "Alkitab mengajarkan bahwa Tuhan Yang Maha Esa itu adalah Allah Bapa. Kita menyebut-Nya Allah Bapa karena:",
+            "options": [
+                "dia Pencipta alam semesta termasuk manusia",
+                "dia pribadi maha besar",
+                "dia dekat dan peduli dengan ciptaan-Nya",
+                "semua jawaban di atas benar"
+            ],
+            "correct": "semua jawaban di atas benar"
+        },
+        {
+            "id": 6,
+            "question": "Kitab Injil mencatat bahwa Yesus Kristus kerap menyatakan bahwa Allah adalah Bapa-Nya. Itu berarti:",
+            "options": [
+                "Allah adalah ayah biologis-Nya sebab Ia dikandung dan dilahirkan Maria",
+                "Dia mengajari kita mengenal dan menghormati Allah sebagai Pribadi yang dekat, penuh kasih, dan sangat peduli",
+                "Allah Bapa lebih berkuasa daripada diri-Nya",
+                "sebelum datang ke dunia ini Yesus adalah ciptaan Allah Bapa"
+            ],
+            "correct": "Dia mengajari kita mengenal dan menghormati Allah sebagai Pribadi yang dekat, penuh kasih, dan sangat peduli"
+        },
+        {
+            "id": 7,
+            "question": "Analogi yang dapat membantu pemahaman kita tentang ketritunggalan Allah adalah:",
+            "options": [
+                "H₂O yang pada waktu dan ruang tertentu dapat berwujud cair, padat, dan uap",
+                "matahari yang memancarkan cahaya, panas, dan terang",
+                "buah utuh yang terdiri dari kulit, sari, dan biji",
+                "ketiga di atas berguna meski tidak sempurna"
+            ],
+            "correct": "ketiga di atas berguna meski tidak sempurna"
+        },
+        {
+            "id": 8,
+            "question": "Keberatan orang memahami bahwa Allah adalah Bapa yang baik dan maha kuasa karena:",
+            "options": [
+                "banyak orang yang percaya kepada Allah justru menderita",
+                "di muka bumi banyak kejahatan seolah dibiarkan oleh Allah",
+                "banyak orang dibesarkan oleh ayah yang kejam walau tekun beragama",
+                "semua jawaban di atas benar"
+            ],
+            "correct": "semua jawaban di atas benar"
+        },
+        {
+            "id": 9,
+            "question": "Maksud Allah Tritunggal mengizinkan penderitaan dan kejahatan di muka bumi adalah:",
+            "options": [
+                "menguji manusia supaya semakin teguh imannya",
+                "menyatakan bahwa Allah bukanlah pribadi maha besar dan maha kuasa",
+                "sebagai alat pembalasan dan penghukuman bagi manusia yang tidak taat kepada-Nya",
+                "supaya manusia merasakan penderitaan"
+            ],
+            "correct": "menguji manusia supaya semakin teguh imannya"
+        },
+        {
+            "id": 10,
+            "question": "Sikap hidup yang patut kita nyatakan kepada Allah Tritunggal adalah:",
+            "options": [
+                "bersyukur kepada-Nya hanya jika Ia menjawab doa dan permohonan kita",
+                "menunjukkan hormat kepada-Nya hanya apabila kita sehat dan sukses",
+                "tetap setia dan berharap walaupun berada di tengah pergumulan hidup",
+                "meninggalkan Dia sebab di zaman ini sudah ada sains dan teknologi membantu hidup manusia"
+            ],
+            "correct": "tetap setia dan berharap walaupun berada di tengah pergumulan hidup"
+        },
+        {
+            "id": 11,
+            "question": "Pendapat umum di Indonesia mengenai Yesus Kristus adalah:",
+            "options": [
+                "Dia Anak Allah",
+                "Dia Guru Moral",
+                "Dia seorang nabi",
+                "Dia ciptaan Allah"
+            ],
+            "correct": "Dia seorang nabi"
+        },
+        {
+            "id": 12,
+            "question": "Setelah dilahirkan di Bethlehem, Yesus Kristus dibesarkan di:",
+            "options": [
+                "Kana",
+                "Nazaret",
+                "Kapernaum",
+                "Yerikho"
+            ],
+            "correct": "Nazaret"
+        },
+        {
+            "id": 13,
+            "question": "Sekitar usia 14-30 tahun pekerjaan Yesus Kristus adalah:",
+            "options": [
+                "Nelayan",
+                "Petani",
+                "Tukang kayu",
+                "Pemungut cukai"
+            ],
+            "correct": "Tukang kayu"
+        },
+        {
+            "id": 14,
+            "question": "Yesus disebut atau digelari Kristus, artinya:",
+            "options": [
+                "Dia yang mulia",
+                "Dia yang maha kudus",
+                "Dia yang diurapi",
+                "Dia yang mahatanu"
+            ],
+            "correct": "Dia yang diurapi"
+        },
+        {
+            "id": 15,
+            "question": "Yesus Kristus juga disebut Tuhan, artinya:",
+            "options": [
+                "Dia pemerintah atas alam semesta",
+                "Dia yang harus kita dengar dan taati",
+                "Dia bukan Allah",
+                "Dia pelayan yang setia"
+            ],
+            "correct": "Dia yang harus kita dengar dan taati"
+        },
+        {
+            "id": 16,
+            "question": "Selama 3,5 tahun memberitakan Injil Kerajaan Allah, Yesus Kristus berperan sebagai Guru. Kitab Injil menyingkapkan bahwa:",
+            "options": [
+                "Yesus adalah Guru yang mengerti Kitab Suci",
+                "Yesus adalah Guru berwibawa",
+                "Yesus adalah Guru yang menerapkan apa yang diajarkan",
+                "Ketiga jawaban di atas benar"
+            ],
+            "correct": "Ketiga jawaban di atas benar"
+        },
+        {
+            "id": 17,
+            "question": "Yesus Kristus digelari Anak Allah:",
+            "options": [
+                "Karena Ia dikandung dan dilahirkan oleh Maria",
+                "Setara, sehakikat dengan Allah Bapa dan Roh Kudus",
+                "Sang Bapa menyebut-Nya sebagai Anak yang kepada-Nya Ia berkenan",
+                "Jawaban B dan C dapat memberi penjelasan memadai"
+            ],
+            "correct": "Jawaban B dan C dapat memberi penjelasan memadai"
+        },
+        {
+            "id": 18,
+            "question": "Keberatan banyak orang bahwa Yesus Kristus adalah Allah, karena:",
+            "options": [
+                "Tidak mungkin Allah menjadi manusia sebab manusia berdosa",
+                "Tidak mungkin manusia biasa yang dibesarkan di Nazaret menjadi Allah",
+                "Pandangan itu sebagai penghinaan terhadap Allah yang Maha Besar",
+                "Ketiga jawaban di atas benar"
+            ],
+            "correct": "Tidak mungkin manusia biasa yang dibesarkan di Nazaret menjadi Allah"
+        },
+        {
+            "id": 19,
+            "question": "Kitab Injil menerangkan beragam teladan hidup Yesus Kristus, di antaranya adalah:",
+            "options": [
+                "Dia kasar dan pemarah",
+                "Dia lemah lembut dan rendah hati",
+                "Dia pemberontak",
+                "Dia suka pamer kekuatan"
+            ],
+            "correct": "Dia lemah lembut dan rendah hati"
+        },
+        {
+            "id": 20,
+            "question": "Sikap yang tepat terhadap Yesus Kristus adalah:",
+            "options": [
+                "Percaya dan menerima Dia sebagai Juru selamat",
+                "Setia mempelajari pengajaran dan teladan-Nya yang diungkapkan Kitab Injil",
+                "Membangun relasi akrab dengan Dia melalui doa dan percakapan",
+                "Semua jawaban di atas benar"
+            ],
+            "correct": "Semua jawaban di atas benar"
+        },
+        [
+            {
+                "id": 21,
+                "question": "Pandangan yang keliru mengenai Roh Kudus adalah",
+                "options": [
+                    "Dia energi Allah bagi seluruh ciptaan",
+                    "Dia salah satu Pribadi Allah Tritunggal",
+                    "Dia memiliki emosi dan pikiran",
+                    "Dia mana kudus"
+                ],
+                "correct": "Dia mana kudus"
+            },
+            {
+                "id": 22,
+                "question": "Anggapan yang keliru di bawah ini adalah",
+                "options": [
+                    "Orang yang didiami oleh Roh Kudus pasti mampu berbahasa lain (glossolalia)",
+                    "Orang yang dipenuhi oleh Roh Kudus tidak bisa lagi berbuat dosa",
+                    "Orang yang dibaptis oleh Roh Kudus akan menangis histeris",
+                    "Jawaban A, B, C benar"
+                ],
+                "correct": "Jawaban A, B, C benar"
+            },
+            {
+                "id": 23,
+                "question": "Kitab Injil memperlihatkan hubungan erat Roh Kudus dengan Yesus Kristus, dengan cara",
+                "options": [
+                    "Ketika Yesus hadir dalam kandungan Maria",
+                    "Ketika Yesus dibaptis oleh Yohanes Pembaptis di sungai Yordan",
+                    "Ketika Yesus mengubah air menjadi anggur di kota Kana",
+                    "Jawaban A dan B benar"
+                ],
+                "correct": "Jawaban A dan B benar"
+            },
+            {
+                "id": 24,
+                "question": "Kitab Injil menerangkan bahwa setelah Yesus dibaptiskan, Ia dituntun oleh Roh Kudus ke padang gurun lalu menghadapi pencobaan Iblis. Makna peristiwa itu bagi kita adalah",
+                "options": [
+                    "Jangan bergaul dengan Roh Kudus supaya tidak masuk ke dalam pencobaan",
+                    "Roh Kudus memberi kemenangan menghadapi godaan dan pencobaan Iblis",
+                    "Kita patut bergaul karib dengan Yesus dan Roh Kudus",
+                    "Jawaban B dan C benar"
+                ],
+                "correct": "Jawaban B dan C benar"
+            },
+            {
+                "id": 25,
+                "question": "Kitab Injil mencatat peringatan Yesus agar orang tidak menghujat Roh Kudus. Sikap dan perbuatan menghujat Roh Kudus adalah",
+                "options": [
+                    "Memandang rendah pribadi Roh Kudus",
+                    "Tidak mengakui adanya Roh Kudus",
+                    "Mengandalkan teknologi modern",
+                    "Jawaban A dan B benar"
+                ],
+                "correct": "Mengandalkan teknologi modern"
+            },
+            {
+                "id": 26,
+                "question": "Kesetaraan Yesus dengan Roh Kudus diperlihatkan oleh Kitab Injil melalui pernyataan-Nya yang menekankan",
+                "options": [
+                    "Roh Kudus datang dari Bapa dan diutus oleh Yesus",
+                    "Roh Kudus bersaksi tentang siapa dan apa pekerjaan Yesus",
+                    "Roh Kudus adalah Roh Kebenaran yang keluar dari Bapa",
+                    "Jawaban A, B, C benar"
+                ],
+                "correct": "Jawaban A, B, C benar"
+            },
+            {
+                "id": 27,
+                "question": "Karena bergaul karib dengan Roh Kudus maka orang akan",
+                "options": [
+                    "Selalu mendapat penglihatan dan bisa bernubuat",
+                    "Bersukacita dan bersyukur atas kasih karunia Allah dalam Kristus",
+                    "Takut bercerita tentang pribadi dan perbuatan Yesus Kristus",
+                    "Merasa dirinya hebat"
+                ],
+                "correct": "Bersukacita dan bersyukur atas kasih karunia Allah dalam Kristus"
+            },
+            {
+                "id": 28,
+                "question": "Bila hidup kita dipimpin oleh Roh Kudus maka",
+                "options": [
+                    "Kita tidak perlu serius belajar, karena saat ujian Dia akan memberi tahu jawaban",
+                    "Kita dibuat tidak berdaya dan lemah",
+                    "Kita dibuat rendah hati sehingga giat belajar",
+                    "Kita akan dibuat sombong dan membesarkan diri"
+                ],
+                "correct": "Kita dibuat rendah hati sehingga giat belajar"
+            },
+            {
+                "id": 29,
+                "question": "Manakah pandangan yang menurut Anda keliru?",
+                "options": [
+                    "Roh Kudus membuat orang seperti kesurupan roh jahat",
+                    "Roh Kudus menuntun kita memuliakan Allah di dalam Yesus Kristus",
+                    "Roh Kudus membuat kita berjaga-jaga terhadap dosa dan kejahatan",
+                    "Roh Kudus memotivasi kita gemar membaca Alkitab"
+                ],
+                "correct": "Roh Kudus membuat orang seperti kesurupan roh jahat"
+            },
+            {
+                "id": 30,
+                "question": "Manakah menurut Anda pemahaman yang benar?",
+                "options": [
+                    "Peran Roh Kudus dapat digantikan oleh ilmu pengetahuan dan teknologi",
+                    "Peran Roh Kudus dapat diganti oleh hipnotisme",
+                    "Peran Roh Kudus menuntun kita untuk semakin mengakui keterbatasan diri dan mengakui kedaulatan Allah",
+                    "Peran Roh Kudus dapat diganti oleh roh-roh orang sakti yang telah meninggal"
+                ],
+                "correct": "Peran Roh Kudus menuntun kita untuk semakin mengakui keterbatasan diri dan mengakui kedaulatan Allah"
+            }
+        ]
+
+    ]  
+    
+}

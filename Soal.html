@@ -1,0 +1,92 @@
+<!DOCTYPE html>  
+<html lang="id">  
+<head>  
+    <meta charset="UTF-8">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">  
+    <title>Sistem Informasi</title>  
+    <link rel="stylesheet" href="styles.css">  
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>  
+<body>  
+    <div class="container">  
+        <div id="quiz-container">  
+            <div class="quiz-header">
+                <h1 class="text-center">Latihan Soal</h1>  
+                <!-- Area Intro Quiz -->
+                <div id="quiz-intro" class="text-center">  
+                    <div class="intro-content">  
+                        <div class="form-group">
+                            <label for="question-count">Pilih jumlah soal:</label>  
+                            <select id="question-count" class="form-control">
+                                <!-- Opsi akan diisi dari JavaScript -->
+                            </select>  
+                        </div>
+                        <div class="form-group">
+                            <button id="start-quiz" class="btn btn-primary">Mulai Kuis</button>  
+                        </div>
+                    </div>  
+                </div>  
+            </div>
+            <!-- Area Utama Quiz -->
+            <div id="quiz-area" style="display:none;">  
+                <!-- Sidebar Daftar Soal -->
+                <div id="question-sidebar">
+                    <h3>Daftar Soal</h3>
+                    <div id="question-list" class="question-navigation"></div>
+                </div>
+
+                <!-- Konten Utama Quiz -->
+                <div id="main-quiz-content">
+                    <div id="question-container">  
+                        <div id="question-header">
+                            <div id="question-number" class="question-badge"></div>  
+                            <div id="timer-container">  
+                                Sisa Waktu: <span id="timer">00:00</span>  
+                            </div>  
+                        </div>
+                        <div id="question-text" class="question-content"></div>  
+                        <div id="options-container" class="options-list"></div>  
+                    </div>  
+                    
+                    <!-- Tombol Navigasi -->
+                    <div class="quiz-controls">  
+                        <button id="prev-btn" class="btn btn-secondary" style="display:none;">Sebelumnya</button>  
+                        <button id="next-btn" class="btn btn-primary">Selanjutnya</button>  
+                        <button id="submit-btn" class="btn btn-success" style="display:none;">Selesaikan Kuis</button>  
+                    </div>  
+                </div>
+            </div>  
+
+            <!-- Area Hasil Quiz -->
+<div id="result-area" style="display:none;">  
+    <h2>Hasil Kuis</h2>  
+    <div id="score-summary" class="result-box"></div>  
+    <div id="detailed-results" class="result-details"></div>  
+
+    <!-- Grafik Performa Seiring Waktu -->
+    <div class="performance-chart-section">
+        <h3>Grafik Performa Seiring Waktu</h3>
+        <canvas id="performanceChart"></canvas>
+    </div>
+
+    <!-- Statistik Waktu Pengerjaan -->
+    <div class="time-statistics-section">
+        <h3>Statistik Waktu Pengerjaan</h3>
+        <div id="time-statistics" class="time-stats">
+            <p>Waktu Rata-rata per Pertanyaan: <span id="average-time">0</span> detik</p>
+            <p>Pertanyaan Tercepat: Soal <span id="fastest-question">-</span> (<span id="fastest-time">0</span> detik)</p>
+            <p>Pertanyaan Terlambat: Soal <span id="slowest-question">-</span> (<span id="slowest-time">0</span> detik)</p>
+        </div>
+    </div>
+
+    <div class="result-actions">
+        <button id="restart-quiz" class="btn btn-primary">Ulangi Kuis</button>  
+    </div>
+</div>
+        </div>  
+    </div>  
+    <script src="quiz.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>  
+</body>  
+</html>
